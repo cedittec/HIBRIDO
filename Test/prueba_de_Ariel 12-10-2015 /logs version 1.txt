@@ -1,0 +1,2473 @@
+Start
+Iniciando el arduino
+Connectado a la red como
+10.49.140.58
+connecting to server...
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connected to server 
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
+Loop 
+IP:
+10.49.140.58
+connection failed
